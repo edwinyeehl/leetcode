@@ -1,14 +1,20 @@
 # edwinyeehl's Leetcode Stash
+
 <br />
 
 This is my personal stash for the leetcode challenges I did starting from somewhere around end of May 2022.
+
+The code will be fully in JavaScript.
 
 The daily challenges folder is not labelled according to date because they can be part of a study plan. When the problem is introduced in any study plans I came across, I will move them into the respective study plan folder.
 
 <br />
 
 ## Data Structure Study Plan
-### Level 1
+
+<details>
+<summary> Level 1</summary>
+
 * [Day 1 - Contains Duplicate](./data-structure-lvl-1/contains_duplicate.js)
 * [Day 1 - Maximum Subarray](./data-structure-lvl-1/maximum-subarray.js)
 * [Day 2 - Two Sum](./data-structure-lvl-1/two-sum.js)
@@ -43,12 +49,29 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 14 - Two Sum IV - Input is a BST](./data-structure-lvl-1/two-sum-iv-input-is-a-bst.js)
 * [Day 14 - Lowest Common Ancestor of a Binary Search Tree](./data-structure-lvl-1/lowest-common-ancestor-of-a-binary-search-tree.js)
 
-<br />
+</details>
 
-### Level 2
+<details>
+<summary> Level 2</summary>
+
 * [Day 1 - Single Number](./data-Structure-lvl-2/single-number.js)
 * [Day 1 - Majority Element](./data-Structure-lvl-2/majority-element.js)
 * [Day 1 - 3Sum](./data-Structure-lvl-2/3sum.js)
 * [Day 2 - Sort Colors](./data-Structure-lvl-2/sort-colors.js)
 * [Day 2 - Merge Intervals](./data-Structure-lvl-2/merge-intervals.js)
 * [Day 2 - Design HashMap](./data-Structure-lvl-2/design-hashmap.js)
+
+</details>
+
+<br />
+
+## Algorithm Study Plan
+
+<details>
+<summary> Level 1</summary>
+
+* [Day 1 - Binary Search](./algorithm-lvl-1/binary-search.js)
+* [Day 1 - First Bad Version](./algorithm-lvl-1/first-bad-version.js)
+* [Day 1 -Search Insert Position](./algorithm-lvl-1/search-insert-position.js)
+
+</details>
