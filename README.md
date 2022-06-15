@@ -73,5 +73,7 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 1 - Binary Search](./algorithm-lvl-1/binary-search.js)
 * [Day 1 - First Bad Version](./algorithm-lvl-1/first-bad-version.js)
 * [Day 1 -Search Insert Position](./algorithm-lvl-1/search-insert-position.js)
+* [Day 2 - Squares of a Sorted Array](./algorithm-lvl-1/squares-of-a-sorted-array.js)
+* [Day 2 - Rotate Array](./algorithm-lvl-1/rotate-array.js)
 
 </details>
