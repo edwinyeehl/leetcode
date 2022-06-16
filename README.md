@@ -60,6 +60,9 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 2 - Sort Colors](./data-Structure-lvl-2/sort-colors.js)
 * [Day 2 - Merge Intervals](./data-Structure-lvl-2/merge-intervals.js)
 * [Day 2 - Design HashMap](./data-Structure-lvl-2/design-hashmap.js)
+* [Day 3 - Pascal's Triangle II](./data-structure-lvl-2/pascals-triangle-ii.js)
+* [Day 3 - Rotate Image](./data-structure-lvl-2/rotate-image.js)
+* [Day 3 - Spiral Matrix II](./data-structure-lvl-2/spiral-matrix-ii.js)
 
 </details>
 
@@ -75,5 +78,7 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 1 -Search Insert Position](./algorithm-lvl-1/search-insert-position.js)
 * [Day 2 - Squares of a Sorted Array](./algorithm-lvl-1/squares-of-a-sorted-array.js)
 * [Day 2 - Rotate Array](./algorithm-lvl-1/rotate-array.js)
+* [Day 3 - Move Zeroes](./algorithm-lvl-1/move-zeroes.js)
+* [Day 3 -Two Sum II - Input Array Is Sorted](./algorithm-lvl-1/two-sum-ii-input-array-is-sorted.js)
 
 </details>

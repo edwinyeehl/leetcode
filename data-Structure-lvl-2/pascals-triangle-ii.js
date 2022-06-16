@@ -1,12 +1,12 @@
 /**
- * @param {number} numRows
- * @return {number[][]}
+ * @param {number} rowIndex
+ * @return {number[]}
  */
 
-var generate = function(numRows) {
+var getRow = function(rowIndex) {
     var result = [];
 
-    for (var i = 0; i < numRows; i++) {
+    for (var i = 0; i <= rowIndex; i++) {
         var row = [];
         for (var j = 0; j <= i; j++) {
             if (j === 0 || j === i) {
@@ -17,8 +17,8 @@ var generate = function(numRows) {
         }
         result.push(row);
     }
-    
-    return result;
+
+    return result[rowIndex];
 };
 
-console.log(generate(9));
+console.log(getRow(3));
