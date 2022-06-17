@@ -63,6 +63,8 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 3 - Pascal's Triangle II](./data-structure-lvl-2/pascals-triangle-ii.js)
 * [Day 3 - Rotate Image](./data-structure-lvl-2/rotate-image.js)
 * [Day 3 - Spiral Matrix II](./data-structure-lvl-2/spiral-matrix-ii.js)
+* [Day 4 - Search a 2D Matrix II](./data-structure-lvl-2/search-a-2d-matrix-ii.js)
+* [Day 4 - Non-overlapping Intervals](./data-structure-lvl-2/non-overlapping-intervals.js)
 
 </details>
 
