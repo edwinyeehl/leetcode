@@ -13,7 +13,7 @@ The daily challenges folder is not labelled according to date because they can b
 ## Data Structure Study Plan
 
 <details>
-<summary> Level 1</summary>
+<summary>Level 1</summary>
 
 * [Day 1 - Contains Duplicate](./data-structure-lvl-1/contains_duplicate.js)
 * [Day 1 - Maximum Subarray](./data-structure-lvl-1/maximum-subarray.js)
@@ -52,7 +52,7 @@ The daily challenges folder is not labelled according to date because they can b
 </details>
 
 <details>
-<summary> Level 2</summary>
+<summary>Level 2</summary>
 
 * [Day 1 - Single Number](./data-Structure-lvl-2/single-number.js)
 * [Day 1 - Majority Element](./data-Structure-lvl-2/majority-element.js)
@@ -71,7 +71,7 @@ The daily challenges folder is not labelled according to date because they can b
 ## Algorithm Study Plan
 
 <details>
-<summary> Level 1</summary>
+<summary>Level 1</summary>
 
 * [Day 1 - Binary Search](./algorithm-lvl-1/binary-search.js)
 * [Day 1 - First Bad Version](./algorithm-lvl-1/first-bad-version.js)
@@ -80,5 +80,7 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 2 - Rotate Array](./algorithm-lvl-1/rotate-array.js)
 * [Day 3 - Move Zeroes](./algorithm-lvl-1/move-zeroes.js)
 * [Day 3 -Two Sum II - Input Array Is Sorted](./algorithm-lvl-1/two-sum-ii-input-array-is-sorted.js)
+* [Day 4 - Reverse String](./algorithm-lvl-1/reverse-string.js)
+* [Day 4 - Reverse Words in a String III](./algorithm-lvl-1/reverse-words-in-a-string-iii.js)
 
 </details>
