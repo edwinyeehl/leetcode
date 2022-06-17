@@ -54,12 +54,12 @@ The daily challenges folder is not labelled according to date because they can b
 <details>
 <summary>Level 2</summary>
 
-* [Day 1 - Single Number](./data-Structure-lvl-2/single-number.js)
-* [Day 1 - Majority Element](./data-Structure-lvl-2/majority-element.js)
-* [Day 1 - 3Sum](./data-Structure-lvl-2/3sum.js)
-* [Day 2 - Sort Colors](./data-Structure-lvl-2/sort-colors.js)
-* [Day 2 - Merge Intervals](./data-Structure-lvl-2/merge-intervals.js)
-* [Day 2 - Design HashMap](./data-Structure-lvl-2/design-hashmap.js)
+* [Day 1 - Single Number](./data-structure-lvl-2/single-number.js)
+* [Day 1 - Majority Element](./data-structure-lvl-2/majority-element.js)
+* [Day 1 - 3Sum](./data-structure-lvl-2/3sum.js)
+* [Day 2 - Sort Colors](./data-structure-lvl-2/sort-colors.js)
+* [Day 2 - Merge Intervals](./data-structure-lvl-2/merge-intervals.js)
+* [Day 2 - Design HashMap](./data-structure-lvl-2/design-hashmap.js)
 * [Day 3 - Pascal's Triangle II](./data-structure-lvl-2/pascals-triangle-ii.js)
 * [Day 3 - Rotate Image](./data-structure-lvl-2/rotate-image.js)
 * [Day 3 - Spiral Matrix II](./data-structure-lvl-2/spiral-matrix-ii.js)
