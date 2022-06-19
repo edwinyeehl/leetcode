@@ -84,5 +84,7 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 3 -Two Sum II - Input Array Is Sorted](./algorithm-lvl-1/two-sum-ii-input-array-is-sorted.js)
 * [Day 4 - Reverse String](./algorithm-lvl-1/reverse-string.js)
 * [Day 4 - Reverse Words in a String III](./algorithm-lvl-1/reverse-words-in-a-string-iii.js)
+* [Day 5 - Middle of the Linked List](./algorithm-lvl-1/middle-of-the-linked-list.js)
+* [Day 5 - Remove Nth Node From End of List](./algorithm-lvl-1/remove-nth-node-from-end-of-list.js)
 
 </details>
