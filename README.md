@@ -65,6 +65,9 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 3 - Spiral Matrix II](./data-structure-lvl-2/spiral-matrix-ii.js)
 * [Day 4 - Search a 2D Matrix II](./data-structure-lvl-2/search-a-2d-matrix-ii.js)
 * [Day 4 - Non-overlapping Intervals](./data-structure-lvl-2/non-overlapping-intervals.js)
+* [Day 5 - Increasing Triplet Subsequence](./data-structure-lvl-2/increasing-triplet-subsequence.js)
+* [Day 5 - Product of Array Except Self](./data-structure-lvl-2/product-of-array-except-self.js)
+* [Day 5 - Subarray Sum Equals K](./data-structure-lvl-2/subarray-sum-equals-k.js)
 
 </details>
 
