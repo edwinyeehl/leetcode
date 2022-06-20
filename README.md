@@ -89,5 +89,7 @@ The daily challenges folder is not labelled according to date because they can b
 * [Day 4 - Reverse Words in a String III](./algorithm-lvl-1/reverse-words-in-a-string-iii.js)
 * [Day 5 - Middle of the Linked List](./algorithm-lvl-1/middle-of-the-linked-list.js)
 * [Day 5 - Remove Nth Node From End of List](./algorithm-lvl-1/remove-nth-node-from-end-of-list.js)
+* [Day 6 - Longest Substring Without Repeating Characters](./algorithm-lvl-1/longest-substring-without-repeating-characters.js)
+* [Day 6 - Permutation in String](./algorithm-lvl-1/permutation-in-string.js)
 
 </details>
