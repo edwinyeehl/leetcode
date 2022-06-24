@@ -8,7 +8,6 @@ var isPossible = function(target) {
         
     let sum = target.reduce((a, b) => a + b);
     target.sort((a, b) => b - a);
-    debugger;
 
     while (sum!= target.length) {
         let temp = target[0] - (sum - target[0]) * (Math.trunc(target[0]  / (sum - target[0]) - 1) || 1);
