@@ -32,6 +32,6 @@ var mergeTwoLists = function(list1, list2) {
         list2.next = mergeTwoLists(list1, list2.next);
         return list2;
     }
-};
+}
 
 console.log(mergeTwoLists(new ListNode(1,new ListNode(2,new ListNode(4))), new ListNode(1,new ListNode(3,new ListNode(4)))));
