@@ -7,7 +7,7 @@
 var maxResult = function(nums, k) {
     let len = nums.length;
     let deq = [len - 1];
-    debugger
+    
     for (let i = len - 2; i >= 0; i--) {
         if (deq[0] - i > k)
             deq.shift();
